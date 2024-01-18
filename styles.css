@@ -1,0 +1,49 @@
+body{
+    background-color: #DC143C;
+}
+
+h1{
+    color: antiquewhite;
+}
+p{
+    color: black;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr{
+    border: 1px solid seashell
+}
+
+b{
+    color: aqua;
+}
+
+b{
+    color: aqua;
+}
+
+b{
+    color: aqua;
+}
+
+#special-bold{
+    color: cadetblue;
+}
+
+#special-bold{
+    color: cadetblue;
+}
+
+#first-par{
+    background-color: beige;
+    padding: 25px;
+    border:2px solid bisque
+    ;
+}
+
+#second-par{ 
+   background-color: beige;
+   padding: 25px;
+   border: 2px solid bisque;
+}
